@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 
-- 📫 How to reach me: **bogdan.ghiurliu-burdean@student.upt.ro**
-                      **ghiurliubogdan@gmail.com**
+- 📫 How to reach me: **bogdan.ghiurliu-burdean@student.upt.ro** or **ghiurliubogdan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
