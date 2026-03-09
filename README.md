@@ -23,15 +23,15 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bogdaain&theme=dark&hide_border=false&show_icons=true" height="195"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=dark&hide_border=false" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bogdaain&theme=dark&hide_border=false&show_icons=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdaain&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdaain&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bogdaain&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Bogdaain&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
