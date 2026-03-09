@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-[[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,docker,arduino,blender,unrealengine,unity&theme=dark&perline=15)](https://skillicons.dev)](https://skillicons.dev/icons?i=c,cs,cpp,java,python,docker,arduino,blender,unrealengine,unity&theme=dark&perline=15)
+[![](https://skillicons.dev/icons?i=c,cs,cpp,java,python,docker,arduino,blender,unrealengine,unity&theme=dark&perline=10)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bogdaain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=dark&hide_border=false)<br/>
