@@ -18,11 +18,12 @@
 <br/>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bogdaain&theme=github_dark" height="195" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bogdaain&theme=tokyonight" height="175" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdaain&theme=tokyonight" height="175" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bogdaain&theme=tokyonight" height="175" alt="Productive Time" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdaain&theme=github_dark" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=tokyonight&hide_border=false" height="175" alt="GitHub Streak" />
 </p>
 <br/>
 
