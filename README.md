@@ -18,18 +18,11 @@
 <br/>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bogdaain&theme=dark&hide_border=false&show_icons=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bogdaain&theme=github_dark" height="195" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Bogdaain&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdaain&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-<br/>
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bogdaain&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdaain&theme=github_dark" alt="Top Languages" />
 </p>
 <br/>
 
